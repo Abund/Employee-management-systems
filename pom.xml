@@ -121,6 +121,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>Employee-managemet-systems</finalName>
     </build>
 
 </project>
